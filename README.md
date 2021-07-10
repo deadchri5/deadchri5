@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Christian 👋
 
 <!--
 **deadchri5/deadchri5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ✔ I'm currenly studying software development engineering.
+- 💡  I'm interesed in web developmet and hybrid movile apps (react native).
+- 🚀  I really enjoy when i develop software solutions.
+- ⚡ Graduated from CETI Colomos as Software Developer technologist.
+- 📩  You can get in touch with me here: christianhdez022@gmail.com.
