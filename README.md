@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - ✔ I'm currenly studying software development engineering.
 - 💡  I'm interesed in web developmet and hybrid movile apps (react native).
-- 🚀  I really enjoy when i develop software solutions.
-- ⚡ Graduated from CETI Colomos as Software Developer technologist.
+- 🚀  I really enjoy develop software solutions.
+- ⚡ Graduated from CETI Colomos as Software Developer Technologist.
 - 📩  You can get in touch with me here: christianhdez022@gmail.com.
