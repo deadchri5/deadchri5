@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📩  You can get in touch with me here: christianhdez022@gmail.com.
-- Good vibes!.
